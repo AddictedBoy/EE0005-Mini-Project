@@ -2,6 +2,7 @@
 
 https://github.com/kying18/wine-classification/blob/master/red%20wine%20classification.ipynb 
 https://github.com/aswintechguy/Machine-Learning-Projects/blob/master/Wine%20Quality%20Prediction%20Analysis%20-%20Classification/Wine%20Quality%20Prediction%20Analysis.ipynb
+https://github.com/gzcharleszhang/wine-quality-prediction
 
 https://towardsdatascience.com/predicting-wine-quality-with-several-classification-techniques-179038ea6434 
 https://towardsdatascience.com/red-wine-quality-prediction-using-regression-modeling-and-machine-learning-7a3e2c3e1f46
